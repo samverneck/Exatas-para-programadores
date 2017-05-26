@@ -6,7 +6,7 @@ Como a maioria deve saber eu, [Suissa]() amo as disciplinas de Exatas, e gostari
 
 Por isso venho por meio deste repositório convidar programadores e alunos/entusiastas de:
 
-- matematica;
+- matemática;
 - física;
 - química;
 - biologia.
