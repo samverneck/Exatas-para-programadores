@@ -21,7 +21,7 @@ Imaginem os programadores se unirem para criarem uma plataforma unificada de con
 
 Criar uma plataforma de criação de ferramentas sócio-educacionais onde os profissionais de cada disciplina irão sugerir tópicos a serem implementados e **um professor da Webschool** ficara responsável pelo gerenciamento do projeto.
 
-&gt; Dando prioridade para trabalhos de TCC desses alunos das outras disciplinas.
+> Dando prioridade para trabalhos de TCC desses alunos das outras disciplinas.
 
 ### Matem√tica
 
@@ -47,9 +47,9 @@ Criar uma plataforma de criação de ferramentas sócio-educacionais onde os pro
 
 Primeiramente que acredito que antes de aprender/ensinar Matemática deve-se ensinar, nessa ordem: Lógica e algortimo.
 
-&gt; Por que isso Suissa?
+> Por que isso Suissa?
 
-&gt; **\- Simples! Vc ñ precisa de Matemática para resolver um algoritmo, mas precisa de Lógica e algoritmo para resolver qualquer calculo.** Percebeu?
+> **\- Simples! Vc ñ precisa de Matemática para resolver um algoritmo, mas precisa de Lógica e algoritmo para resolver qualquer calculo.** Percebeu?
 
 Fora que **eu** acredito que Matemática deveria ser ensinada como a Programação deveria ser ensinada: apenas após ter algum problema, das outras disciplinas, para resolver.
 
@@ -57,7 +57,7 @@ Fora que **eu** acredito que Matemática deveria ser ensinada como a Programaç�
 
 Fora que a disciplina de Lógica te ensina a pensar melhor e a de algoritmo te ensina a escrever em uma ordem lógica seu pensamento/solução, logo os 2 são obrigatórios quando vc quer realmente entender como resolver algo e não apenas resolver mecanicamente.
 
-&gt; Sabemos que a informação hoje é abundante e fácil de ser achada, então por que não nos focamos no ensino do como fazer isso e não do faça assim?
+> Sabemos que a informação hoje é abundante e fácil de ser achada, então por que não nos focamos no ensino do como fazer isso e não do faça assim?
 
 Quem trabalha, principalmente com programação, sabe que a maioria dos cenários são de correção de algum erro, logo porque não ensinar os alunos que eles tenham que corrigir um erro em um exemplo apresentado do que ter que decorar como aplicar aquela fórmula?
 
@@ -113,19 +113,19 @@ assim como 27 e 9 acha o 9 como menor, 27 e 3 achara o 3.
 
 '''
 
-&gt; Tudo se trata de proporção!
+> Tudo se trata de proporção!
 
 Além do que precisamos ensinar do micro para o macro, demonstrar que qualquer calculo matemático pode ser reduzido em '+' e '-', onde o que importa é vc saber o que fazer com eles.
 
-&gt; Eu, IMHO, não irei ensinar fórmulas, mas sim os conceitos e como liga-los.
+> Eu, IMHO, não irei ensinar fórmulas, mas sim os conceitos e como liga-los.
 
 Precisamos entender que é mais importante um aluno resolver **qualquer** calculo criando um algoritmo que ele possa ir testando passo-a-passo e o sistema responder com um feedback onde ele errou, igual os erros em programaçao, e faça o aluno aprender sozinho e correr atras do conhecimento que lhe falta, do que apenas ensinar uma fórmula e como aplica-la corretamente.
 
-&gt; Demora-se muito mais tempo para escrever um algoritmo que faça uma divisão do que fazer algumas delas na mao, porém escrevendo uma vez a solução para **todos os casos** você só ira precisar usar essa funçao pois você ja entendeu como funcion.
+> Demora-se muito mais tempo para escrever um algoritmo que faça uma divisão do que fazer algumas delas na mao, porém escrevendo uma vez a solução para **todos os casos** você só ira precisar usar essa funçao pois você ja entendeu como funcion.
 
 Fora isso os alunos precisam aprender conceitos como *looping* e tipos antes mesmo de aprender Matemática.
 
-&gt; Se vc perguntar para uma criança qual o resultado de laranja + gato ela não vai responder: uma laranjada de gato. Porque ela sabe que não pode.
+> Se vc perguntar para uma criança qual o resultado de laranja + gato ela não vai responder: uma laranjada de gato. Porque ela sabe que não pode.
 
 E esse não poder juntar coisas diferentes nada mais é do que a tipagem na Programação.
 
@@ -163,19 +163,19 @@ y = x / y
 
 Conseguir inferir que a aceleração é uma diferença na velocidade de um corpo apenas analisando sua definição:
 
-&gt; aceleração: substantivo feminino - Aumento da velocidade, pressa. [Física] Aumento de velocidade, por unidade de tempo, nos corpos em movimento.
+> aceleração: substantivo feminino - Aumento da velocidade, pressa. [Física] Aumento de velocidade, por unidade de tempo, nos corpos em movimento.
 
 Logo para que ela exista precisa-se da velocidade e a definição de velocidade é:
 
-&gt; velocidade: substantivo feminino - Qualidade de veloz. Movimento rápido; rapidez. Distancia percorrida durante uma unidade de tempo: a velocidade do som.
+> velocidade: substantivo feminino - Qualidade de veloz. Movimento rápido; rapidez. Distancia percorrida durante uma unidade de tempo: a velocidade do som.
 
 Entendendo essa parte: "Distancia percorrida durante uma unidade de tempo".
 
-&gt; distancia: substantivo feminino - Espaço entre dois pontos.
+> distancia: substantivo feminino - Espaço entre dois pontos.
 
-&gt; unidade: substantivo feminino - número um. Qualidade do que é um ou único.
+> unidade: substantivo feminino - número um. Qualidade do que é um ou único.
 
-&gt; tempo: substantivo masculino - Período sem interrup��es no qual os acontecimentos ocorrem;
+> tempo: substantivo masculino - Período sem interrup��es no qual os acontecimentos ocorrem;
 
 Quando lemos 'unidade de tempo' podemos inferir que é algo único baseado no tempo e para termos algo único com tantos números nós os agrupamos em conjuntos.
 
@@ -206,11 +206,11 @@ distancia = ( posicaoInicial, posicaoFinal ) =&gt; posicaoFinal - posicaoInicial
 
 Lembrando que a velocidade é a:
 
-&gt; "Distancia percorrida durante uma unidade de tempo"
+> "Distancia percorrida durante uma unidade de tempo"
 
 Podemos inferir que quando nos falam "100km/h" estão dizendo que o corpo percorreu uma distancia que poderia ser 100 kilometros em 1 hora.
 
-&gt; Se ele percorreu uma distancia logo ele partiu de um ponto X para um Y, correto?
+> Se ele percorreu uma distancia logo ele partiu de um ponto X para um Y, correto?
 
 Essa é a diferença da distancia ou, como chamamos, delta da distancia.
 
