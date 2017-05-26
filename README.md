@@ -1,6 +1,6 @@
 # Exatas-para-programadores
 
-Vamos criar a maior biblioteca de funções EXPLICaDas implementadas em JS.
+Vamos criar a maior biblioteca de funções explicadas implementadas em JS.
 
 Como a maioria deve saber eu, [Suissa]() amo as disciplinas de Exatas, e gostaria de iniciar uma integraçao maior entre os alunos dessas disciplinas e nós programadores, pois nós podemos auxiliar qualquer disciplina a evoluir sua forma de ensino criando plataformas e ferramentas que ajudem nesse objetivo.
 
@@ -50,23 +50,23 @@ Criar uma plataforma de criaçao de ferramentas sócio-educacionais onde os prof
 
 ### Matem√tica
 
-Primeiramente que acredito que antes de aprender/ensinar Matema´tica deve-se ensinar, nessa ordem: Lógica e algortimo.
+Primeiramente que acredito que antes de aprender/ensinar Matemática deve-se ensinar, nessa ordem: Lógica e algortimo.
 
 > Por que isso Suissa?
 
-> **\- Simples! Vc ñ precisa de Matematica para resolver um algoritmo, mas precisa de Lógica e algoritmo para resolver qualquer calculo.** Percebeu?
+> **\- Simples! Vc ñ precisa de Matemática para resolver um algoritmo, mas precisa de Lógica e algoritmo para resolver qualquer calculo.** Percebeu?
 
-Fora que **eu** acredito que Matematica deveria ser ensinada como a Programaçao deveria ser ensinada: apenas após ter algum problema, das outras disciplinas, para resolver.
+Fora que **eu** acredito que Matemática deveria ser ensinada como a Programaçao deveria ser ensinada: apenas após ter algum problema, das outras disciplinas, para resolver.
 
 **Ensinar qualquer um deles sem um objetivo certo é ilógico!**
 
-Fora que a disciplina de Lógica te ensina a pensar melhor e a de algoritmo te ensina a escrever em uma ordem lógica seu pensamento/soluçao, logo os 2 sao obrigatórios quando vc quer realmente entender como resolver algo e nao apenas resolver mecanicamente.
+Fora que a disciplina de Lógica te ensina a pensar melhor e a de algoritmo te ensina a escrever em uma ordem lógica seu pensamento/solução, logo os 2 sao obrigatórios quando vc quer realmente entender como resolver algo e nao apenas resolver mecanicamente.
 
-> Sabemos que a informaçao hoje é abundante e facil de ser achada, entao por que nao nos focamos no ensino do como fazer isso e nao do faça assim?
+> Sabemos que a informação hoje é abundante e fácil de ser achada, então por que não nos focamos no ensino do como fazer isso e nao do faça assim?
 
-Quem trabalha, principalmente com programaçao, sabe que a maioria dos cenarios sao de correçao de algum erro, logo porque nao ensinar os alunos que eles tenham que corrigir um erro em um exemplo apresentado do que ter que decorar como aplicar aquela fórmula?
+Quem trabalha, principalmente com programação, sabe que a maioria dos cenários são de correção de algum erro, logo porque não ensinar os alunos que eles tenham que corrigir um erro em um exemplo apresentado do que ter que decorar como aplicar aquela fórmula?
 
-Todas disciplinas estao conectadas, principalmente Matematica e o idioma.
+Todas disciplinas estão conectadas, principalmente Matemática e o idioma.
 
 Se um dia vc precisar calcular um [mínimo múltiplo comum]() eu quero que vc possa inferir e fazer o calculo sem precisar pesquisar a fórmula pois isso **TODOS** terao a mao, quero que o aluno entenda qual o conceito de cada palavra:
 
